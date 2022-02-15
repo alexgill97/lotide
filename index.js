@@ -4,7 +4,7 @@ const middle = require('./middle')
 //const head = require('./')
 
 module.exports = {
-  head: head,
-  tail: tail,
-  middle: middle
+  head,
+  tail,
+  middle
 };
